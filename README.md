@@ -2,11 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=doodle-sack-fd)
 
-## I'm learning FrontEnd development
-- 💪 I like to write code
-- 🥅 I love learning new things
-- 🤹🏽 I'm a perfectionist 
-
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
