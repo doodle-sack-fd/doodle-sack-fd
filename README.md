@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Maxim!
+### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=doodle-sack-fd)
 
